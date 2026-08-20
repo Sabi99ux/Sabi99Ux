@@ -35,7 +35,6 @@ This GitHub is where I upload my projects, practice code, and progress as I cont
 ## GitHub Stats
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Sabi99Ux/Sabi99Ux/stats-output/stats.svg" height="150" alt="stats graph" /> <br>
   <img src="https://streak-stats.demolab.com?user=Sabi99Ux&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" /> <br>
   <img src="https://raw.githubusercontent.com/Sabi99Ux/Sabi99Ux/activity-graph-output/activity-graph.svg" height="300" alt="activity-graph graph"  />
 </div>
